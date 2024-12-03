@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "anime1.me",
+        "www.nodeseek.com",
+        "www.v2ex.com",
+        "hostloc.com",
+        "www.camwhores.tv",
+        "m.happymh.com"
+      ]
+    }
+  ]
+}
